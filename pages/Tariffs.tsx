@@ -31,9 +31,6 @@ const Tariffs: React.FC = () => {
              </div>
              
              <div className="mb-6 pb-6 border-b border-slate-100 flex-grow text-sm">
-               <div className="mb-4 p-2 bg-slate-50 rounded text-center text-brand-700 font-medium text-xs border border-brand-100">
-                 Только входящие звонки и WhatsApp
-               </div>
                <ul className="space-y-3">
                   <li className="flex gap-2 items-start">
                     <Check className="w-5 h-5 text-brand-500 flex-shrink-0" />
@@ -80,9 +77,6 @@ const Tariffs: React.FC = () => {
              </div>
 
              <div className="mb-6 pb-6 border-b border-slate-100 flex-grow text-sm">
-               <div className="mb-4 p-2 bg-slate-50 rounded text-center text-brand-700 font-medium text-xs border border-brand-100">
-                 Только входящие звонки и WhatsApp
-               </div>
                <ul className="space-y-3">
                   <li className="flex gap-2 items-start">
                     <Check className="w-5 h-5 text-brand-500 flex-shrink-0" />
@@ -126,9 +120,6 @@ const Tariffs: React.FC = () => {
              </div>
 
              <div className="mb-6 pb-6 border-b border-slate-100 flex-grow text-sm">
-               <div className="mb-4 p-2 bg-slate-50 rounded text-center text-brand-700 font-medium text-xs border border-brand-100">
-                 Только входящие звонки и WhatsApp
-               </div>
                <ul className="space-y-3">
                   <li className="flex gap-2 items-start">
                     <Check className="w-5 h-5 text-brand-500 flex-shrink-0" />
